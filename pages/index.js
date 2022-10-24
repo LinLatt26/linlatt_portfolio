@@ -49,7 +49,7 @@ const [darkMode, setDarkMode] = useState(false);
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 max-w-xl mx-auto md:text-xl font-roboto dark:text-white">
               A Young Passionate Web Developer, Experience of developing website, 
-              content, and managing projects in College. Also nterested in setup 
+              content, and managing projects in College. Also interested in setup 
               the computer hardware and software. And also interested in develop 
               front-end, back-end and database design etc. 
             </p>
