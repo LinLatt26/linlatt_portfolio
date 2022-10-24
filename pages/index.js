@@ -129,7 +129,7 @@ const [darkMode, setDarkMode] = useState(false);
             </div>
             <div>
               <Image className="rounded-xl shadow-lg" src={web4}></Image>
-              <p className="text-center font-roboto font-bold text-blue-600"><a href="http://luckygroup.96.lt/">PTI Generator Website</a></p>
+              <p className="text-center font-roboto font-bold text-blue-600"><a href="http://merrymeal.unaux.com/">Merry-Meal Website</a></p>
             </div>
           </div>
         </section>
